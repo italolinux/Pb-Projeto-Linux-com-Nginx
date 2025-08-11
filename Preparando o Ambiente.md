@@ -1,6 +1,6 @@
-# Construindo o Ambiente 
+# 1. Instalando WSL e Ubuntu 24.04.
 
-Nesse projeto usarei um **Ubuntu server 24.04**, via **WSL(Windows Subsystem for Linux)**.
+Nesse projeto usarei um **Ubuntu 24.04**, via **WSL(Windows Subsystem for Linux)**.
 Para usar o WSL, abrirei o **powershell** e colocarei:
 
 **wsl --install**  para fazer a instalação do wsl, por padrão instala o Ubuntu.
