@@ -1,4 +1,4 @@
-1. Construindo o Ambiente 
+# Construindo o Ambiente 
 
 Nesse projeto usarei um **Ubuntu server 24.04**, via **WSL(Windows Subsystem for Linux)**.
 Para usar o WSL, abrirei o **powershell** e colocarei:
