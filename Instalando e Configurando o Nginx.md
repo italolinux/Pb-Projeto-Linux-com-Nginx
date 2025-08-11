@@ -1,4 +1,4 @@
-1. Instalando o Nginx no Ubuntu
+# Instalando o Nginx no Ubuntu
 
 Primeiro atualizei a lista de pacotes disponíveis, com o comando:
 **apt update** 
