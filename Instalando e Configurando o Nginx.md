@@ -58,8 +58,7 @@ Com tudo ok, dei um sinal(-s) de reiniciamento a nginx para subir a página.
 
 Só acessar o http://localhost e visualizar página web.
 
-
-
+<img width="1896" height="1016" alt="image" src="https://github.com/user-attachments/assets/a1da9353-c21d-408b-8068-c943949265c0" />
 
 
 
