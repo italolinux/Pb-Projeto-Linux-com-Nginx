@@ -10,3 +10,6 @@ Este projeto implementa uma infraestrutura web básica com monitoramento automat
 [4.Explicando o script de monitoramento](https://github.com/italolinux/Pb-Projeto-Linux-com-Nginx/blob/main/Monitoramento%20Nginx.md)
 
 
+# Teste do monitoramento
+
+Vou parar o serviço nginx através ```systemctl stop nginx``` 
