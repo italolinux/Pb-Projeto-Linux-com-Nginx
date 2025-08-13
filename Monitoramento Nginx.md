@@ -1,1 +1,1 @@
-#Script de Monitoramento e reiniciamento do Nginx.
+# Script de Monitoramento e reiniciamento do Nginx.
