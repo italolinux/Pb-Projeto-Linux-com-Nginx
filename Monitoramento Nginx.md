@@ -48,6 +48,13 @@ Se a condição for falsa ```else``` executa os códigos.
 
 ```echo "offline" > "$STATE_FILE"``` Atualiza o arquivo de estado com a palavra "offline", registrando que o site está inacessível.
 
+``` if [ "$ESTADO_ANTERIOR" = "online" ]; then``` verifica o estado.
+
+```enviar_alerta "🚨 **ALERTA:** Site fora do ar!\nStatus HTTP: $HTTP_CODE\nHorário: $HOJE"``` envia alerta pelo discord com a mensagem acima
+
+```systemctl restart nginx``` reinicia o serviço do nginx.
+
+```enviar_alerta "🔄 **AÇÃO:** Nginx reiniciado automaticamente\nHorário: $HOJE"``` envia outro alerta avisando o reiniciamento do serviço.
 
 
 
